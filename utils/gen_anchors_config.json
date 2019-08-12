@@ -1,0 +1,6 @@
+{"train": {"train_annot_folder": "..\\data\\annotations",
+           "train_image_folder": "..\\data\\images"},
+ "model": {"labels": ".\\labels.txt",
+           "n_grid": 19,
+           "n_anchors": 5}
+}
